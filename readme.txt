@@ -28,3 +28,5 @@ git checkout -b dev
 
 Creating a new branch is quick & simple. master
 Creating a new branch is quick & simple. master master
+
+feature1 branch
