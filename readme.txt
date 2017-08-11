@@ -26,5 +26,6 @@ git checkout branchname
 
 git checkout -b dev
 
-git chckout -b feature1
-Creating a new branch is quick AND simple.
+Creating a new branch is quick & simple. master
+
+feature1 branch
