@@ -17,3 +17,5 @@ git reset --hard HEAD^
 git checkout -- readme.txt
 
 git rest HEAD filename
+
+git push origin master
