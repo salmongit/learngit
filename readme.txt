@@ -30,3 +30,7 @@ Creating a new branch is quick & simple. master
 Creating a new branch is quick & simple. master master
 
 feature1 branch
+
+git checkout -b dev origin/dev
+
+git branch --set-upstream dev origin/dev
