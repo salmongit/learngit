@@ -19,3 +19,9 @@ git checkout -- readme.txt
 git rest HEAD filename
 
 git push origin master
+
+Creating a new branch is quick.
+git branch branchname
+git checkout branchname
+
+git checkout -b dev
