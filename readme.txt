@@ -34,3 +34,5 @@ feature1 branch
 git checkout -b dev origin/dev
 
 git branch --set-upstream dev origin/dev
+
+git@git.oschina.net:weixin-sell/sell.git
